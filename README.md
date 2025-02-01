@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AEA&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+profile!;Let's+build+something+awesome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AEA&center=true&vCenter=true&width=435&lines=Hello!;I'm+trying+out+different+things+right+now." alt="Typing SVG" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 
 ### 👨💻 About Me
 [//]: # Hello :D
-- 🔭 현재 이것저것 탐색 중
+- 🔭 Side project in progress... brace yourself for awesomeness
 - 🌱 Interested in AI
 - ⚡ COLD PLUNGE WITH DEVELOP
 
@@ -38,7 +38,7 @@
 ### 🤝 Connect with Me
 [//]: # (oiiadatarch@gmail.com)
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:oiiadatarch@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
