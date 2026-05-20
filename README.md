@@ -2,13 +2,14 @@
 
 > Build small. Ship fast. Improve always.
 
-현장에서 문제를 정확히 정의하고, 단순한 해법을 빠르게 구현한 뒤,
-실사용 피드백으로 꾸준히 개선하는 개발을 지향합니다.
+I like starting from the field: finding a real pain, decomposing the workflow, building a small prototype, and improving it through feedback. Recently, I’ve been building AI agents for document comprehension, reproducible business analysis, and coding-agent-driven engineering workflows.
 
-## Highlights
-- 제품 관점으로 문제를 재해석하고 핵심 기능에 집중합니다.
-- AI/자동화 기반의 실용적인 워크플로를 실험합니다.
-- 작게 배포하고 빠르게 학습하는 반복 루프를 만듭니다.
+## How I work
+- Start from real user pain, not abstract ideas.
+- Decompose messy workflows into clear systems.
+- Build the smallest useful version first.
+- Use AI agents as engineering teammates, not just autocomplete.
+- Keep logs, tests, and feedback loops.
 
 ## About Me
 - 🔭 Building side projects with real user value
