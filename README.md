@@ -12,9 +12,9 @@ I like starting from the field: finding a real pain, decomposing the workflow, b
 - Keep logs, tests, and feedback loops.
 
 ## About Me
-- 🔭 Building side projects with real user value
-- 🌱 Exploring AI-native product development
-- ⚡ Discipline first: decompose, organize, execution
+- Building side projects with real user value
+- Exploring AI-native product development
+- Discipline first: decompose, organize, execution
 
 ## Connect
 - Email: [univekqls@gmail.com](mailto:univekqls@gmail.com)
